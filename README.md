@@ -5,6 +5,7 @@
 - ReactJs
 - React Hooks
 - Styled-Components
+- Node 16
 - MySQL
 - Express
 
