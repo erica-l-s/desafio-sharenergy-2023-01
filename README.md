@@ -10,7 +10,7 @@
 
 # Back End
 
-para inicializar o banco de dados:
+para inicializar o back end:
 
 ```
 node index.js
