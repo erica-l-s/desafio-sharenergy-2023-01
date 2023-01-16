@@ -13,7 +13,7 @@
 para inicializar o back end:
 
 ```
-node index.js
+node ./src/server/index.js
 ```
 
 
