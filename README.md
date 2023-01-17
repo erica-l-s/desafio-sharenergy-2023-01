@@ -1,6 +1,6 @@
 # Desafio para o processo seletivo SHARENERGY 2023/01
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas :computer:
 
 - ReactJs
 - React Hooks
@@ -32,4 +32,4 @@ e para abrir o projeto:
 ```
 npm run start
 ```
-
+YouTube link: https://youtu.be/2EV3KTn7csM
