@@ -33,3 +33,4 @@ e para abrir o projeto:
 npm run start
 ```
 YouTube link: https://youtu.be/2EV3KTn7csM
+Surge link: https://upset-addition.surge.sh/
